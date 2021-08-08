@@ -1,0 +1,59 @@
+.hidden{
+    display: none;
+}  
+
+#clock{
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+#login-form{
+  text-align: center;
+
+}
+
+#greeting{
+  text-align: center;
+}
+
+#todo-form{
+  text-align: center;
+  
+}
+
+#center-item{
+  margin-top: 190px;
+}
+
+#todo-list{
+  text-align: center;
+  justify-content: center;
+  list-style:none;
+}
+
+#top-item{
+  display:flex;
+  margin-top: 20px;
+}
+
+#quote{
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+#weather{
+  margin-left: auto;
+  margin-right: 20px;
+  font-size: 30px;
+}
+
+body{
+  color: white;
+
+}
+
+
+
+
+
+
